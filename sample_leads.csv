@@ -1,0 +1,24 @@
+company_name,company_domain,industry,employee_count,country,state_or_region,contact_name,contact_email,last_updated_at
+Acme Technologies,acme.com,Technology,250,United States,California,Alice Johnson,alice@acme.com,2024-08-15
+HealthCore Inc,healthcore.io,Healthcare,1200,United States,New York,Bob Williams,bob@healthcore.io,2023-12-01
+FinServe Ltd,finserve.co.uk,Financial Services,80,United Kingdom,,Charles Brown,charles@finserve.co.uk,2024-06-20
+RetailMax,retailmax.de,Retail,5000,Germany,,Dieter Müller,dieter@retailmax.de,2024-01-10
+TechNova Solutions,technova.io,Technology,45,United States,Texas,Emma Davis,emma@technova.io,2024-09-01
+GreenEnergy Co,greenenergy.com,Energy,300,Canada,,François Tremblay,francois@greenenergy.com,2023-05-15
+EduPath,edupath.org,Education,120,United States,Massachusetts,Grace Kim,grace@edupath.org,2024-07-22
+BuildRight Construction,buildright.com,Construction,850,United States,Florida,Henry Martin,henry@buildright.com,2024-03-30
+Consulting Partners,consultingpartners.biz,Consulting,25,Australia,,Isabella Chen,isabella@consultingpartners.biz,2024-10-01
+MediaHub,mediahub.net,Media & Entertainment,600,United Kingdom,,James Wilson,james@mediahub.net,2023-11-18
+SaaSFlow,saasflow.io,Technology,180,United States,Washington,Katherine Lee,kate@saasflow.io,2024-09-15
+LegalEdge,legaledge.com,Legal,40,United States,New York,Liam Garcia,liam@legaledge.com,2024-05-05
+SupplyChainPro,supplychainpro.com,Logistics & Supply Chain,320,United States,Illinois,Maria Lopez,maria@supplychainpro.com,2024-08-01
+TechNova Solutions,technova.io,Technology,45,United States,Texas,Emma Davis,emma@technova.io,2024-09-01
+BioMed Research,biomed.org,Healthcare,75,Germany,,Niklas Bauer,niklas@biomed.org,2024-04-12
+SolarTech,solartech.ae,Energy,150,United Arab Emirates,,Omar Al-Rashid,,2024-07-30
+DataDriven Analytics,datadriven.ai,Technology,90,United States,California,Patricia Wong,patricia@datadriven.ai,2024-10-05
+,,,,,,,invalid-email-format,2024-01-01
+RealEstateOne,realestatone.com,Real Estate,200,United States,New York,Quinn Adams,quinn@realestatone.com,2024-06-18
+TeleComNext,telecomnext.in,Telecommunications,4500,India,,Rajesh Kumar,rajesh@telecomnext.in,2022-08-22
+CloudBase Systems,cloudbase.io,Technology,320,United States,Oregon,Sarah Thompson,sarah@cloudbase.io,2024-09-28
+MicroManufacturing,micromfg.com,Manufacturing,60,United States,Michigan,Tom Harris,tom@micromfg.com,2024-07-01
+NonProfitHub,nonprofithub.org,Non-profit,15,United States,Colorado,Uma Patel,uma@nonprofithub.org,2024-08-10
